@@ -97,13 +97,13 @@ This is a variable unit course. The requirements for each number of units are li
 | Sep 27<br>Lec 4  | web3 landscape (III): DAOs, Decentralized web & future applications       |
 | Oct 4<br>Lec 5   | How to find a good idea                                                   |
 | Oct 11<br>Lec 6  | Pitching                                                                  |
-| Oct 18<br>Lec 7  | Pitching workshop                                                         |
+| Oct 18<br>Lec 7  | N/A                                                                       |
 | Oct 25<br>Lec 8  | Product                                                                   |
 | Nov 1<br>Lec 9   | CESC (no lecture)                                                         |
 | Nov 8<br>Lec 10  | Community & Growth                                                        |
 | Nov 15<br>Lec 11 | Legal / Regulatory                                                        |
 | Nov 22<br>Lec 12 | Incentive Design & Tokenomics                                             |
-| Nov 29<br>Lec 13 | Final project presentation \| Demo day \| Words of wisdom; Closing        |
+| Nov 29<br>Lec 13 | N/A                                                                       |
 
 ## Timeline
 
