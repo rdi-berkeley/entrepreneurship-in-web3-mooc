@@ -1,4 +1,39 @@
-- name: Example Name
-  picture: example.jpeg
-  bio:  |
-    Example multiline bio
+- name: Dan Robinson
+  picture: Robinson.jpg
+  bio: |
+    Dan Robinson is a Research Partner and the Head of Research at Paradigm, focused on crypto investments and research into open-source protocols. Previously, Dan was a protocol researcher at Interstellar. Before Interstellar, Dan practiced as a litigation attorney at Paul, Weiss, Rifkind, Wharton & Garrison LLP. He earned a J.D. from Harvard Law School and an A.B. from Harvard University.
+- name: Yat Siu
+  picture: Yat.jpg
+  bio: |
+    A veteran technology entrepreneur/investor based in Hong Kong, Yat Siu is the co-founder and executive chairman of Animoca Brands, a global leader in blockchain and gaming with the mission to deliver digital property rights to the world's gamers and Internet users, thereby creating a new asset class, play-to-earn economies, and a more equitable digital framework contributing to the building of the open metaverse.
+    Yat began his career at Atari Germany in 1990. In 1995 he moved to Hong Kong to establish Hong Kong Cybercity/Freenation, the first free web page and email provider in Asia. In 1998 he set up Outblaze, an award-winning pioneer of multilingual white label web services. In 2009, he sold Outblaze’s messaging unit to IBM and pivoted Outblaze to become an incubator of projects and companies to develop digital entertainment services and products. One of those incubated companies is Animoca Brands, which was created in 2014.
+    In 2017 he set up the Dalton Learning Lab, an afterschool digital lab for skills not emphasized by most education systems, including divergent thinking and design thinking. He is the founder of ThinkBlaze, the research arm of Outblaze investigating socially meaningful issues in technology.
+    Since 2018, Yat has been an early advocate for the use of blockchain and non-fungible tokens (NFTs) in the gaming industry, which will allow gamers to enjoy true ownership of their own game assets, data, and, consequently, equity. With a clear vision of the potential of decentralized apps and assets, Yat quickly steered Animoca Brands to a leadership position in blockchain, gaming, NFTs, and the open metaverse. Recently valued at $5.8 billion, Animoca Brands operates a series of NFT-centric subsidiaries and products, and has invested in over 170 blockchain-related companies to build one of the largest blockchain portfolios in the world.
+    Yat has earned numerous accolades including Global Leader of Tomorrow at the World Economic Forum, Young Entrepreneur of the Year at the DHL/SCMP Awards, and recognition as one of the Cointelegraph top 100 notable people in blockchain.
+    A classically trained musician, Yat is a member of the advisory board of BAFTA (British Academy of Film and Television Arts) and a director of the Asian Youth Orchestra.
+- name: Balaji Srinivasan
+  picture: Balaji.png
+  bio: |
+    Balaji S. Srinivasan (@balajis) is an angel investor, tech founder, and author of The Network State.
+    Formerly the CTO of Coinbase and General Partner at Andreessen Horowitz, he is an early investor in many successful tech companies and crypto protocols, including Alchemy, Ava Labs, Bitcoin, Cameo, Chainlink, Clubhouse, Dapper Labs, Deel, EPNS, Ethereum, Instadapp, Lambda School, Mighty, NEAR Protocol, OnDeck, Opensea, Replit, Republic, Roam Research, Solana, Soylent, Superhuman, Synthesis, XMTP, and Zora.
+    Dr. Srinivasan was the cofounder of Earn.com (acquired by Coinbase), Counsyl (acquired by Myriad), Teleport (acquired by Topia), and Coin Center. He holds a BS/MS/PhD in Electrical Engineering and an MS in Chemical Engineering from Stanford University.
+- name: Avichal Garg
+  picture: Avichal.png
+  bio: |
+    Avichal Garg, Co-Founder/Partner at Electric Capital.
+    Avichal is a successful entrepreneur with executive experience at Google and Facebook, which acquired his previous company. As an angel investor, Avichal has invested in 15 unicorns and 5 decacorns including Airtable, Boom Supersonic, Color Genomics, Cruise, Deel, Figma, Newfront Insurance, Notion, Nova Credit, Pulley, and others. He co-founded Electric Capital in 2018 and has grown it to one of the largest crypto venture firms globally. Electric is an investor in leading web3 protocols and companies such as Bitwise, Bitnomial, dYdX, Frax, Kraken, Magic Eden, NEAR, and Tokemak.
+- name: Tim Roughgarden
+  picture: Tim.jpg
+  bio: |
+    Tim Roughgarden is a Professor of Computer Science at Columbia University. Prior to joining Columbia, he spent 15 years on the computer science faculty at Stanford, following a PhD at Cornell and a postdoc at UC Berkeley. His research interests include the many connections between computer science and economics, as well as the design, analysis, applications, and limitations of algorithms. For his research, he has been awarded the ACM Grace Murray Hopper Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Kalai Prize in Computer Science and Game Theory, the Social Choice and Welfare Prize, the Mathematical Programming Society's Tucker Prize, and the EATCS-SIGACT Gödel Prize. He was an invited speaker at the 2006 International Congress of Mathematicians, the Shapley Lecturer at the 2008 World Congress of the Game Theory Society, and a Guggenheim Fellow in 2017. He has written or edited ten books and monographs, including Twenty Lectures on Algorithmic Game Theory (2016), Beyond the Worst-Case Analysis of Algorithms (2020), and the Algorithms Illuminated book series (2017-2020).
+
+- name: Jake Chervinsky
+  picture: Jake.jpg
+  bio: |
+    Jake Chervinsky is Head of Policy for the Blockchain Association — the unified voice of the crypto industry, representing the most prominent companies and projects in the space.
+    Jake is an industry veteran, joining BA from Compound Labs, the developer of a leading DeFi protocol, where he served as General Counsel. Prior to this role, he represented individual and corporate clients in cryptocurrency-related securities and commodities litigation at Kobre & Kim LLP.
+    Jake earned his B.A. from the George Washington University, and his J.D. from the George Washington University Law School.
+- name: Stani Kulechov
+  picture: Stani.png
+  bio: |
+    Stani Kulechov, founder and CEO of the Aave Companies, was studying law at the University of Helsinki when he first began learning about smart contracts and thus, about the Ethereum blockchain network.  This lead to an exploration of how blockchain technology could impact the traditional financial system. In 2017, Stani released ETHLend, one of the first DeFi DApps which allowed for peer-to-peer digital asset transactions. Stani has made it his mission to create tools for an open, transparent, and equitable financial ecosystem through various decentralized financials software protocols—most notably, the Aave Protocol.
