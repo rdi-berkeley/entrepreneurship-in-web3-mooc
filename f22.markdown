@@ -89,21 +89,21 @@ This is a variable unit course. The requirements for each number of units are li
 
 ## Syllabus (tentative)
 
-| Date             | Topic                                                                     |
-| ---------------- | ------------------------------------------------------------------------- |
-| Sep 6<br>Lec 1   | Orientation & Entrepreneurship 101                                        |
-| Sep 13<br>Lec 2  | Web3 landscape (I): L1/L2 / infrastructure, DeFi, CeFi, Service providers |
-| Sep 20<br>Lec 3  | Web3 landscape (II): NFTs, GameFi                                         |
-| Sep 27<br>Lec 4  | web3 landscape (III): DAOs, Decentralized web & future applications       |
-| Oct 4<br>Lec 5   | How to find a good idea                                                   |
-| Oct 11<br>Lec 6  | Pitching                                                                  |
-| Oct 18<br>Lec 7  | N/A                                                                       |
-| Oct 25<br>Lec 8  | Product                                                                   |
-| Nov 1<br>Lec 9   | CESC (no lecture)                                                         |
-| Nov 8<br>Lec 10  | Community & Growth                                                        |
-| Nov 15<br>Lec 11 | Legal / Regulatory                                                        |
-| Nov 22<br>Lec 12 | Incentive Design & Tokenomics                                             |
-| Nov 29<br>Lec 13 | N/A                                                                       |
+| Date             | Topic                                                                     | Speaker                    |
+| ---------------- | ------------------------------------------------------------------------- | -------------------------- |
+| Sep 6<br>Lec 1   | Orientation & Entrepreneurship 101                                        | Dawn Song & Haseeb Qureshi |
+| Sep 13<br>Lec 2  | Web3 landscape (I): L1/L2 / infrastructure, DeFi, CeFi, Service providers | Dan Robinson               |
+| Sep 20<br>Lec 3  | Web3 landscape (II): NFTs, GameFi                                         | Yat Siu                    |
+| Sep 27<br>Lec 4  | web3 landscape (III): DAOs, Decentralized web & future applications       | Balaji Srinivasan          |
+| Oct 4<br>Lec 5   | How to find a good idea                                                   | Haseeb Qureshi             |
+| Oct 11<br>Lec 6  | Pitching                                                                  | Haseeb Qureshi             |
+| Oct 18<br>Lec 7  | N/A                                                                       |                            |
+| Oct 25<br>Lec 8  | Product                                                                   | Avichal Garg               |
+| Nov 1<br>Lec 9   | CESC (no lecture)                                                         |                            |
+| Nov 8<br>Lec 10  | Incentive Design & Tokenomics                                             | Tim Roughgarden            |
+| Nov 15<br>Lec 11 | Legal / Regulatory                                                        | Jake Chervinsky            |
+| Nov 22<br>Lec 12 | Community & Growth                                                        | Stani Kulechov             |
+| Nov 29<br>Lec 13 | N/A                                                                       | Dawn Song & Haseeb Qureshi |
 
 ## Timeline
 
@@ -112,9 +112,9 @@ This is a variable unit course. The requirements for each number of units are li
 | Project milestone         | Nov 8    |
 | Final presentation / Demo | Nov 29   |
 
-<!-- ## Meet the Speakers
+## Meet the Speakers
 
-<iframe id="speakers" src="/f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
+<iframe id="speakers" src="./f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -129,7 +129,7 @@ This is a variable unit course. The requirements for each number of units are li
   window.onload = function() {
       setIframeHeight(document.getElementById('speakers'));
   };
-</script> -->
+</script>
 
 ## Course Description
 
