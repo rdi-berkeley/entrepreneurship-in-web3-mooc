@@ -99,11 +99,10 @@ This is a variable unit course. The requirements for each number of units are li
 | Oct 11<br>Lec 6  | Pitching                                                                  | Haseeb Qureshi             |
 | Oct 18<br>Lec 7  | N/A                                                                       |                            |
 | Oct 25<br>Lec 8  | Product                                                                   | Avichal Garg               |
-| Nov 1<br>Lec 9   | CESC (no lecture)                                                         |                            |
+| Nov 1<br>Lec 9   | [CESC](https://cesc.io) (no lecture)                                      |                            |
 | Nov 8<br>Lec 10  | Incentive Design & Tokenomics                                             | Tim Roughgarden            |
 | Nov 15<br>Lec 11 | Legal / Regulatory                                                        | Jake Chervinsky            |
 | Nov 22<br>Lec 12 | Community & Growth                                                        | Stani Kulechov             |
-| Nov 29<br>Lec 13 | N/A                                                                       |                            |
 
 ## Timeline
 
