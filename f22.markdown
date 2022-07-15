@@ -103,7 +103,7 @@ This is a variable unit course. The requirements for each number of units are li
 | Nov 8<br>Lec 10  | Incentive Design & Tokenomics                                             | Tim Roughgarden            |
 | Nov 15<br>Lec 11 | Legal / Regulatory                                                        | Jake Chervinsky            |
 | Nov 22<br>Lec 12 | Community & Growth                                                        | Stani Kulechov             |
-| Nov 29<br>Lec 13 | N/A                                                                       | Dawn Song & Haseeb Qureshi |
+| Nov 29<br>Lec 13 | N/A                                                                       |                            |
 
 ## Timeline
 
