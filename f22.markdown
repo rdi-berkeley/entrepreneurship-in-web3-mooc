@@ -46,7 +46,7 @@ permalink: /
 Xiaoyuan Liu
 
 ## Class Time
-Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Aug 30. 
+Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Sep 6. 
 
 <!-- ## Office Hour
 All times are in PST. There will be no office hours until the week of September 6th.
@@ -70,13 +70,6 @@ All times are in PST. There will be no office hours until the week of September 
 | Nov 8<br>Lec 10  | Incentive Design & Tokenomics                                             | Tim Roughgarden            |
 | Nov 15<br>Lec 11 | Legal / Regulatory                                                        | Jake Chervinsky            |
 | Nov 22<br>Lec 12 | Community & Growth                                                        | Stani Kulechov             |
-
-## Timeline
-
-| Group formation           | Sep 27   |
-| Project proposal          | Oct 11   |
-| Project milestone         | Nov 8    |
-| Final presentation / Demo | Nov 29   |
 
 ## Meet the Speakers
 
