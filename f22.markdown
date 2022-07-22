@@ -4,15 +4,7 @@ title: "Entrepreneurship In Web3"
 permalink: /
 ---
 
-<!-- # Decentralized Finance -->
-
-# Entrepreneurship In Web3  MOOC
-
-<!-- - [Zoom link](https://berkeley.zoom.us/j/94039559132) for the class (password: 267548): [ <img src="/assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94039559132)
-- For general course content related questions, please join our [edstem](https://edstem.org/us/courses/7861/discussion/) and [discord](https://discord.gg/3yFqmRjZDA).
-- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span> -->
-
-- For more information about the the course, please also join <a target="_blank" href="https://groups.google.com/g/berkeley-web3-entrepreneurship-f22">berkeley-web3-entrepreneurship-f22@googlegroups.com</a>. And stay tuned!
+- For more information about the the course, please also join <a target="_blank" href="https://groups.google.com/g/web3-startups-mooc-f22">web3-startups-mooc-f22@googlegroups.com</a>. And stay tuned!
 
 ## Instructors
 
