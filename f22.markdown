@@ -71,7 +71,7 @@ All times are in PST. There will be no office hours until the week of September 
 | Nov 15<br>Lec 11 | Legal / Regulatory                                                        | Jake Chervinsky            |
 | Nov 22<br>Lec 12 | Community & Growth                                                        | Stani Kulechov             |
 
-## Meet the Speakers
+## Meet the Guest Speakers
 
 <iframe id="speakers" src="./f22_speakers" width="100%" height="1800" frameborder=0> </iframe>
 
