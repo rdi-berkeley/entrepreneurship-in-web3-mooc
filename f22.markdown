@@ -34,10 +34,6 @@ permalink: /
   </tbody>
 </table>
 
-## TAs
-
-Xiaoyuan Liu
-
 ## Class Time
 Synchronous lecture: 4:00 PM-5:59 PM PT Tue, starting Sep 6. 
 
