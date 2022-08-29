@@ -6,6 +6,7 @@ permalink: /
 
 - To sign up for the course, please fill in [this form](https://forms.gle/ZRdJ8goyZHzpmUyj7).
 - For more information about the the course, please also join <a target="_blank" href="https://groups.google.com/g/web3-startups-mooc-f22">web3-startups-mooc-f22@googlegroups.com</a>. And stay tuned!
+- For general course content related questions, please join our [discord](https://discord.gg/X63rBrNtSD).
 
 ## Instructors
 
