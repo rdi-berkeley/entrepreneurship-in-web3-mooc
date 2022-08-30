@@ -63,11 +63,11 @@ All times are in PST. There will be no office hours until the week of September 
 
 ## Meet the Guest Speakers
 
-<iframe id="speakers" src="./f22_speakers" width="100%" height="1750" frameborder=0> </iframe>
+<iframe id="speakers" src="./f22_speakers" width="100%" height="2150" frameborder=0> </iframe>
 
 ## Meet the Mentors
 
-<iframe id="mentors" src="./f22_mentors" width="100%" height="750" frameborder=0> </iframe>
+<iframe id="mentors" src="./f22_mentors" width="100%" height="900" frameborder=0> </iframe>
 
 ## Course Description
 
