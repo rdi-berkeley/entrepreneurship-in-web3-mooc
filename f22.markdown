@@ -4,7 +4,7 @@ title: "Entrepreneurship In Web3"
 permalink: /
 ---
 
-- [Zoom link](https://berkeley.zoom.us/j/92377081508): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/92377081508)
+- [Zoom link](https://berkeley.zoom.us/j/92377081508): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/92377081508)  [[Calendar]](https://calendar.google.com/calendar/u/0?cid=Y18zNDJuN2xpdW8yMzI2aGFjczBkYWtzb2FvMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - To sign up for the course, please fill in [this form](https://forms.gle/ZRdJ8goyZHzpmUyj7).
 - For more information about the the course, please also join <a target="_blank" href="https://groups.google.com/g/web3-startups-mooc-f22">web3-startups-mooc-f22@googlegroups.com</a>. And stay tuned!
 - For general course content related questions, please join our [discord](https://discord.gg/X63rBrNtSD).
