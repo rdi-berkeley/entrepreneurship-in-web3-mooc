@@ -70,6 +70,34 @@ All times are in PST. There will be no office hours until the week of September 
 
 <iframe id="mentors" src="./f22_mentors" width="100%" height="1130" frameborder=0> </iframe>
 
+## Course Completion NFTs
+
+MOOC students are expected to finish a pitch deck and make a 3-min presentation about their project ideas in Web3. Students are also encouraged to write about the course content and their experience. Please use [this form](https://forms.gle/AFkWKHwhseeNuRcq5) to submit your final presentation and [this form](https://forms.gle/NzoswmcwQjY6M2rR9) to submit your blog articles. The submission should be completed **by Jan 8, 2023**.
+
+Students are expected to write blog articles about relevant topics covered in this course or your experience of the course posted online, and tweet about the article. For example, a blog article on
+- Summarizing information from certain lectures
+- A postmortem on the learning experience
+- Novel ideas in Web3
+
+The quality of the article needs to be at least 6 marks  to be satisfactory; the criteria are listed below:
+- Understanding (2 marks): Displays breadth and/or depth of understanding of the topic
+- Importance (2 marks): Content conveys an important aspect of Web3 to the audience
+- Clarity (3 marks): Explains complex concepts simply, clearly, and accurately
+- References (1 mark): Cite the relevant lecture and reference materials such as research papers properly.
+
+Also please link to the course website, http://web3-startups.org/ , in your article.
+
+We will distribute NFTs for the completion of the course. Below are the rules for different tiers (subject to change):
+
+**Honorary Tier**: Instructors, guest speakers, TAs, and the most supportive students who help others on Discord will be rewarded with special NFTs.
+
+**Legendary Tier**: Students who submit a project pitch (including a presentation video) **that is highly ranked**, write an article posted online, and tweet about the article.
+
+**Ninja Tier**: Students who submit a project pitch (including a presentation video), write an article posted online, and tweet about the article.
+
+**TrailBlazer Tier**: Students must write at least **3 articles** about relevant topics covered in this course or your experience of the course posted online, and tweet about the articles.
+
+
 ## Course Description
 
 Attention on web3 has exploded in recent years. Web3 provides better incentive models and control to users over the networks they use, through powerful abstractions like smart contracts, NFTs, and DAOs. Replacing centralized platforms in web2 with open protocols and autonomous governance, web3 encourages community participation and has the potential to be the future of the Internet.
