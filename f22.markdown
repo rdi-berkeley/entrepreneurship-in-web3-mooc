@@ -61,9 +61,9 @@ All times are in PST. There will be no office hours until the week of September 
 | Oct 18<br>Lec 7  | N/A                                                                       |                            |
 | Oct 25<br>Lec 8  | Product [[Video](https://www.youtube.com/watch?v=TnnrSzsDspw)] [[Slide](https://web3-startups.org/assets/lectures_slides/lecture8.pdf)] | Avichal Garg               |
 | Nov 1<br>Lec 9   | [CESC](https://cesc.io) (no lecture)                                      |                            |
-| Nov 8<br>Lec 10  | Legal / Regulatory [[Video] (https://www.youtube.com/watch?v=zqwr4YKhcSo)] [[Slide](https://web3-startups.org/assets/lectures_slides/lecture10.pdf)] | Jake Chervinsky            |
-| Nov 15<br>Lec 11 | Incentive Design & Tokenomics [[Video] (https://www.youtube.com/watch?v=kYtwxtCPIik)]                                            | Tim Roughgarden            |
-| Nov 22<br>Lec 12 | Community & Growth [[Video] (https://www.youtube.com/watch?v=PA9QrrH-ze0)]  | Stani Kulechov             |
+| Nov 8<br>Lec 10  | Legal / Regulatory [[Video](https://www.youtube.com/watch?v=zqwr4YKhcSo)] [[Slide](https://web3-startups.org/assets/lectures_slides/lecture10.pdf)] | Jake Chervinsky            |
+| Nov 15<br>Lec 11 | Incentive Design & Tokenomics [[Video](https://www.youtube.com/watch?v=kYtwxtCPIik)]  | Tim Roughgarden            |
+| Nov 22<br>Lec 12 | Community & Growth  [[Video](https://www.youtube.com/watch?v=PA9QrrH-ze0)] | Stani Kulechov             |
 
 ## Meet the Guest Speakers
 
